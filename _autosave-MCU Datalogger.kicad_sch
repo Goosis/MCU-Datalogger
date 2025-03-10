@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "186db468-5636-412f-bd5a-89d6df8ac1f6")
+	(paper "A4")
+	(title_block
+		(title "${project_name}")
+		(date "2025-03-10")
+		(rev "1")
+		(company "Artem Kostenko")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
