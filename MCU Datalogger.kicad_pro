@@ -399,7 +399,16 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "5f91362a-7465-40a3-a7fe-a833a560f14b",
+      "Root"
+    ],
+    [
+      "937f622d-1089-484f-b2e2-cd471933e875",
+      "Connectors"
+    ]
+  ],
   "text_variables": {
     "project_name": "MCU Datalogger with memory and clock"
   }
